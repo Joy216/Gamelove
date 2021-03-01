@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> Game love </title>
+
+<body>
+
+<h1> Those who love game scenarios welcome!</p>
